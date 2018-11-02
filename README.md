@@ -1,4 +1,4 @@
-# Titanic-Kaggle
+# Titanic: Machine Learning from Disaster - Kaggle
 Titanic Machine Learning from Disaster.
 
 Competition Website: (http://www.kaggle.com/c/titanic-gettingStarted).
